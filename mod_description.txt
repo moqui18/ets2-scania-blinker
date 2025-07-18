@@ -1,0 +1,5 @@
+Fix blinker sound timing for Scania R S 2016 to match the official.
+
+Have fun!
+
+Copyright © 2025 All Rights Reserved                                             

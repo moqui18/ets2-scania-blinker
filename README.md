@@ -7,5 +7,3 @@ Tested on ETS2 version 1.54.
 Have fun!
 
 [Steam Workshop - Download](https://steamcommunity.com/sharedfiles/filedetails/?id=3528813966)
-
-Copyright © 2025 All Rights Reserved

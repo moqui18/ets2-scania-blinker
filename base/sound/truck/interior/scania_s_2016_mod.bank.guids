@@ -1,2 +1,5 @@
-{93bb28a7-1ec2-4e31-ad8a-6943ab445376} event:/interior/scania_s_2016/blinker_off
-{37bceb7d-4d1a-4455-9679-b5724de49f8c} event:/interior/scania_s_2016/blinker_on
+{e735ec88-aada-43d7-90d6-25b6e92ca757} bank:/scania_s_2016_mod
+{36c710c7-71aa-4b64-b6cd-98e5ab55bd78} event:/interior/blinker_off
+{eb7a66af-01f8-4fdc-b368-7ae783de2a4f} event:/interior/blinker_on
+{0965b961-39d6-45e6-a506-d2fbffbd0d42} event:/interior/parking_brake_off
+{64bb8889-4b8b-4dff-a2ed-17a2a12e075d} event:/interior/parking_brake_on

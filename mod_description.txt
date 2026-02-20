@@ -1,3 +1,3 @@
-Fix blinker sound timing for Scania R S 2016 to match the official.
+Fix blinker sound timing for Scania R S 2016 + New Dash to match the official.
 
 Have fun!                                          
